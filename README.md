@@ -96,6 +96,7 @@ The complete research paper is available in this repository:
 
 ## Author
 
-Your Name
+Md Wajih Tousif Raafi
 
-Department / University
+Department of Computer Science and Engineering
+Chittagong University of Engineering and Technology
