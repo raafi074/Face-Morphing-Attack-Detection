@@ -58,7 +58,6 @@ Residual Maps      Residual Maps
 ├── DRF-NET.py
 ├── Face_Morphing.pdf
 ├── images/
-├── models/
 └── README.md
 ```
 
